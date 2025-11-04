@@ -1,0 +1,15 @@
+rly_file = "Portsmouth_Direct_Line_2021.rly"
+ttb_files = [ "Portsmouth_Direct_Line_2025-11-17.ttb", "Portsmouth_Direct_Line_2021-05-12.ttb", "Portsmouth_Direct_Line_2025-11-15.ttb",]
+img_files = [ "Portsmouth_Direct_Line_2021.bmp", "Portsmouth_Direct_Line_2025.bmp",]
+doc_files = [ "Portsmouth_Direct_Line.md",]
+release_date = "2025-11-04"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2025
+display_name = "Portsmouth Direct Line"
+name = "Portsmouth Direct Line"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
